@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 91cd411b9375bea437dd0a38854bbb50ec734a0f tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1648004891 +0800	commit (initial): stock_model
+91cd411b9375bea437dd0a38854bbb50ec734a0f 52bafcd3a302a3b70641a99b0e6c374f698d0ec9 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1648113933 +0800	commit: plot
+52bafcd3a302a3b70641a99b0e6c374f698d0ec9 c0486a86bbb52792b1980e5fbd92c93e6564ae21 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1648114952 +0800	commit: add readme.md
+c0486a86bbb52792b1980e5fbd92c93e6564ae21 52bafcd3a302a3b70641a99b0e6c374f698d0ec9 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1648115001 +0800	reset: moving to 52bafcd3a302a3b70641a99b0e6c374f698d0ec9
+52bafcd3a302a3b70641a99b0e6c374f698d0ec9 96af9672bb763ea01daa35de479bf9d8959f4c18 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1648115004 +0800	commit: add readme.md
+96af9672bb763ea01daa35de479bf9d8959f4c18 eaf2616e0e83bad19d047fe19df986232155c820 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1648115035 +0800	pull --progress origin: Merge made by the 'recursive' strategy.
+eaf2616e0e83bad19d047fe19df986232155c820 97bc72bc11dd09cf580b5868642d3f2548ef47fb tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1656260174 +0800	commit: 0615 model
+97bc72bc11dd09cf580b5868642d3f2548ef47fb 641d49a3d626a9bb68259682e11a0776855722de tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1656260253 +0800	commit: remove cv
+641d49a3d626a9bb68259682e11a0776855722de 38cfd8d61d7af1549b06b45ece242245f5c0a526 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1656260313 +0800	commit: remove old csv
+38cfd8d61d7af1549b06b45ece242245f5c0a526 358cef8614b80dcd3fafccf416232b721c8e89f5 tomatofrankie <87681682+tomatofrankie@users.noreply.github.com> 1656260356 +0800	commit: remove untitled
