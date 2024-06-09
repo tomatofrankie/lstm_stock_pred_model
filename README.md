@@ -1,4 +1,6 @@
-# stock_prediction
+# Deep Learning Stock Prediction Model
+#### Video Demo:  <URL HERE>
+#### Description:
  
 ## multivariate_multistep_lstm_20220706_mayoverfit.ipynb
 - Two layer LSTM (32),(16)
@@ -30,12 +32,6 @@
 - VAR
 - Close, macd, macds
 - Result: Underfit
-
-## Contact
-Instagram: [algolutionhk](https://www.instagram.com/algolutionhk/)  
-Telegram: [algolutionhk](https://t.me/algolutionhk)  
-LinkedIn: [Algolution HK](https://www.linkedin.com/company/algolutionhk/)  
-Email: [algolutionhk@gmail.com](mailto:algolutionhk@gmail.com)
 
 ## Library Used
 scikit-learn, yfinance, technical-indicators, statsmodels, keras 
